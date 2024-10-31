@@ -1,0 +1,10 @@
+{
+  "name": "sample-viewer-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/sample-viewer-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["sample-viewer"],
+  "// targets": "to see all targets run: nx show project sample-viewer-e2e --web",
+  "targets": {}
+}
